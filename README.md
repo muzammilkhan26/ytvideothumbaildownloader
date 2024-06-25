@@ -22,7 +22,7 @@ This is a simple web application that allows users to fetch the thumbnail of a Y
 
 ## Live Demo
 
-You can try out the live demo of this web application [here](https://yourusername.github.io/repositoryname).
+You can try out the live demo of this web application [here](https://muzammilkhan26.github.io/ytvideothumbaildownloader).
 
 ## License
 
